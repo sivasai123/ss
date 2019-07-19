@@ -1,0 +1,6 @@
+n11,n21,n31=input().split()
+n11=int(n11)
+n21=int(n21)
+n31=int(n31)
+sum=(n11/2)*(2*n21+(n11-1)*n31)
+print(int(sum))
