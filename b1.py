@@ -1,3 +1,3 @@
 import re
-x = "asdfklsdf#$&^#@!"
-new = re.sub('[\w]+' ,'', x)
+y = "asdfklsdf#$&^#@!"
+new = re.sub('[\w]+' ,'', y)
