@@ -1,3 +1,12 @@
-st=input("Enter a string")
-n=input("No of times to repeat:")
-print(st *int(n))
+#include <stdio.h>
+#include<string.h>
+int main()
+{
+	int a,i;
+	char b[100];
+	scanf("%s %d",&b,&a);
+	for(i=0;i<a;i++)
+	{
+		printf("%s\n",b);
+	}
+}
