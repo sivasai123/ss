@@ -1,3 +1,3 @@
 a=str(input())
-b=set(n.split(' '))
+b=set(a.split(' '))
 print(max(b))
