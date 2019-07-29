@@ -1,3 +1,3 @@
-n=int(input())
-n=n+1
-print(n)
+a=int(input())
+a=a+1
+print(a)
