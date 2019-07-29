@@ -1,3 +1,3 @@
-n=str(input())
-g=set(n.split(' '))
-print(max(g))
+a=str(input())
+b=set(n.split(' '))
+print(max(b))
