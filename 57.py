@@ -4,4 +4,4 @@ c=list(map(int,input().split()))[:A]
 for k in c:
 	if k==B:
 		i+=1
-	print(i)
+print(i)
